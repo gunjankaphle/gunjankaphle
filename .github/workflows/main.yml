@@ -17,9 +17,9 @@ jobs:
 
           # Options
           user: gunjankaphle
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
-          config_timezone: US/Eastern
+          config_timezone: US/Pacific
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
